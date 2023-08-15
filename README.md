@@ -1,6 +1,5 @@
 # Notepad
-Notepad is a mobile application that allow you to store your notes and your To-do list in an efficient way.
+Notepad is a mobile application allowing you to store your notes and To-do list efficiently.
 
-
-Uploading bandicam 2022-10-20 21-22-23-871.mp4…
+https://drive.google.com/file/d/1DKuMrXswCXzw1U-7SZtYdCdi3kgCQ6RO/view?usp=drive_link
 

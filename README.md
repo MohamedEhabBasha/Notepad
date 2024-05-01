@@ -1,4 +1,5 @@
-# Notepad
+# Notepad Mobile Application
+## ITI Summer Training
 Notepad is a mobile application allowing you to store your notes and To-do lists efficiently.
 
 
